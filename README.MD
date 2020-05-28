@@ -8,7 +8,7 @@
 - Display: 1080P
 - SSD: Hikvision c2000 pro
 - Wi-Fi: Broadcom DW1820A
-- OS: Catalina 10.15.3~10.15.4
+- OS: Catalina 10.15.3~10.15.5
 
 ![](./screenshot/1.png)
 
