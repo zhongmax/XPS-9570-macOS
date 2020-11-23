@@ -11,9 +11,9 @@
 - OS: Catalina 10.15.3~10.15.7
 - OS: Big Sur 11.0.1
 
-![](./screenshot/catalina.png)
+<div align=center><img width='586' height='353' src="./screenshot/catalina.png")</div>
 
-![](https://maxwell-oss.oss-cn-shenzhen.aliyuncs.com/img/20201123190335.png)
+<div align=center><img width='586' height='353' src="./screenshot/bigsur.png")</div>
 
 | 设备                                          | 状态   |
 | --------------------------------------------- | ------ |
