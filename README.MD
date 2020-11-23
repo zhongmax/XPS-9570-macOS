@@ -11,9 +11,13 @@
 - OS: Catalina 10.15.3~10.15.7
 - OS: Big Sur 11.0.1
 
-<div align=center><img width='586' height='353' src="./screenshot/catalina.png") /></div>
+![](./screenshot/catalina.png)
 
-<div align=center><img width='586' height='353' src="./screenshot/bigsur.png") /></div>
+
+
+![](./screenshot/bigsur.png)
+
+
 
 | 设备                                          | 状态   |
 | --------------------------------------------- | ------ |
